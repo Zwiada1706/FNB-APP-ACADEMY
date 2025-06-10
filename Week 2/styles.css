@@ -17,3 +17,19 @@ p {
 ul {
     list-style-image: url('images/pointer-icon.png');
 }
+
+#menu-bar a {
+    font-family: sans-serif;
+    text-decoration: none;
+    background-color: aquamarine;
+    padding: 5px;
+}
+
+#menu-bar a:hover {
+    background-color: aqua;
+    color: #fff;
+}
+
+.gallery_img {
+    width: 100%;
+}
